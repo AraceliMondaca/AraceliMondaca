@@ -1,7 +1,7 @@
 # Welcome to the repository of Araceli 👋
 
 <div style="text-align: center;">
-  <img src="Banner (1).gif" alt="GIF divertido" width="700" >
+  <img src="Banner.gif" alt="GIF divertido" width="700" >
 </div>
 
 <div id="badges" style="text-align: center; margin: 20px 0;">
