@@ -1,7 +1,7 @@
 # Welcome to the repository of Araceli 👋
 
 <div align="center" style="text-align: center;">
-  <img src="Banner.gif" alt="GIF divertido" width="700" >
+  <img src="BannerNaranja (1).gif" alt="GIF divertido" width="700" >
 </div>
 
 ## 📬 Contact / Social Media
