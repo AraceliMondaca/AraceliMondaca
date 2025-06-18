@@ -72,29 +72,17 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <a href="https://github.com/aracelimondaca/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img
-      height="200"
-      style="display: block;"
-      src="https://github-readme-stats.vercel.app/api?username=aracelimondaca&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"
-      alt="GitHub Stats"
-    />
+<p align="center">
+  <a href="https://github.com/aracelimondaca/github-readme-stats" target="_blank">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=aracelimondaca&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/aracelimondaca/convoychat" target="_blank" rel="noopener noreferrer">
-    <img
-      height="200"
-      style="display: block;"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=aracelimondaca&layout=compact&langs_count=8&card_width=320&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40"
-      alt="Top Languages"
-    />
+  <a href="https://github.com/aracelimondaca/convoychat" target="_blank">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aracelimondaca&layout=compact&langs_count=8&card_width=320&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Languages"/>
   </a>
- <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AraceliMondaca&theme=dark&hide_border=false&background=000000&stroke=2B5BBD&ring=2B5BBD&fire=FF6E48&currStreakLabel=2B5BBD&currStreakNum=FFFFFF"
-    alt="GitHub Streak"
-    height="200"
-  />
-</div>
+  <a href="https://github.com/AraceliMondaca" target="_blank">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AraceliMondaca&theme=dark&hide_border=false&background=000000&stroke=2B5BBD&ring=2B5BBD&fire=FF6E48&currStreakLabel=2B5BBD&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ## 🔝 Top Contributed Repo
 <div align="center">
