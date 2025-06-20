@@ -79,9 +79,6 @@
   <a href="https://github.com/aracelimondaca/convoychat" target="_blank">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aracelimondaca&layout=compact&langs_count=8&card_width=320&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/AraceliMondaca" target="_blank">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AraceliMondaca&theme=dark&hide_border=false&background=000000&stroke=2B5BBD&ring=2B5BBD&fire=FF6E48&currStreakLabel=2B5BBD&currStreakNum=FFFFFF" alt="GitHub Streak"/>
-  </a>
 </p>
 
 ## 🔝 Top Contributed Repo
