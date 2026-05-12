@@ -70,19 +70,7 @@
 
 </div>
 
-## 📊 GitHub Stats:
 
-<p align="center">
-  <a href="https://github.com/aracelimondaca/github-readme-stats" target="_blank">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=aracelimondaca&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/aracelimondaca/convoychat" target="_blank">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aracelimondaca&layout=compact&langs_count=8&card_width=320&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Languages"/>
-  </a>
-</p>
-
-## 🔝 Top Contributed Repo
-<div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=AraceliMondaca&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
